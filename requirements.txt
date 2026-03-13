@@ -1,5 +1,5 @@
 aiogram==2.25.1
-aiohttp
+aiohttp==3.8.6
 phonenumbers
 beautifulsoup4
 fake-useragent
@@ -16,3 +16,6 @@ pillow
 telethon
 cryptography
 asyncio
+wheel
+setuptools
+cython
