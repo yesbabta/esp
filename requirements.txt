@@ -1,5 +1,4 @@
-pip install --upgrade pip
-pip install -r requirements.txt
+--upgrade pip setuptools wheel
 aiogram==2.25.1
 aiohttp==3.13.3
 phonenumbers
@@ -13,10 +12,8 @@ tqdm
 termcolor
 requests
 urllib3
-qrcode
+qrcode[pil]
 pillow
 telethon
 cryptography
-wheel
-setuptools
 cython
