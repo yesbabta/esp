@@ -12,5 +12,6 @@ termcolor
 requests
 urllib3
 qrcode
+pillow
 telethon
 cryptography
