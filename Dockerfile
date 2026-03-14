@@ -8,4 +8,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-CMD ["py", "botnet.py"]
+CMD ["py", "C:\Users\имя\Desktop\крутой какашка\botnet.py"]
