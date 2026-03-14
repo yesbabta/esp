@@ -1,5 +1,5 @@
 aiogram==2.25.1
-aiohttp==3.13.3
+aiohttp==3.8.6
 phonenumbers
 beautifulsoup4
 fake-useragent
@@ -11,8 +11,7 @@ tqdm
 termcolor
 requests
 urllib3
-qrcode[pil]
-pillow
+qrcode
+pillow==9.5.0
 telethon
 cryptography
-cython
